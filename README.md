@@ -1,1 +1,1 @@
-Completar la documentacion del Readme, explicando de que se trata este proyecto , que herramientas se usaron ej IA
+este proyecto de landing es una tarea, es una pagina de chistes, en la pagina se explica como ver ls chistes, hecho en chat GPT
